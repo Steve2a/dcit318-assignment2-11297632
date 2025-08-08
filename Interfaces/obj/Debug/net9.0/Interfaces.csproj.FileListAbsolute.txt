@@ -1,0 +1,15 @@
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment2-11297632\Interfaces\bin\Debug\net9.0\Interfaces.exe
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment2-11297632\Interfaces\bin\Debug\net9.0\Interfaces.deps.json
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment2-11297632\Interfaces\bin\Debug\net9.0\Interfaces.runtimeconfig.json
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment2-11297632\Interfaces\bin\Debug\net9.0\Interfaces.dll
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment2-11297632\Interfaces\bin\Debug\net9.0\Interfaces.pdb
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment2-11297632\Interfaces\obj\Debug\net9.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment2-11297632\Interfaces\obj\Debug\net9.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment2-11297632\Interfaces\obj\Debug\net9.0\Interfaces.AssemblyInfo.cs
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment2-11297632\Interfaces\obj\Debug\net9.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment2-11297632\Interfaces\obj\Debug\net9.0\Interfaces.sourcelink.json
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment2-11297632\Interfaces\obj\Debug\net9.0\Interfaces.dll
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment2-11297632\Interfaces\obj\Debug\net9.0\refint\Interfaces.dll
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment2-11297632\Interfaces\obj\Debug\net9.0\Interfaces.pdb
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment2-11297632\Interfaces\obj\Debug\net9.0\Interfaces.genruntimeconfig.cache
+C:\Users\Stephen\Downloads\L300\318\dcit318-assignment2-11297632\Interfaces\obj\Debug\net9.0\ref\Interfaces.dll
